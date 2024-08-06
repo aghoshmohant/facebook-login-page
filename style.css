@@ -1,0 +1,196 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+.header{
+    width: 100%;
+    height: 200px;
+    background-color: #3b5998;
+    margin-bottom: 0;
+    
+}
+.left-link{
+    color: white;
+    text-decoration: none;
+    font-size: 60px;
+    font-weight: bold;
+    margin-left: 200px;
+}
+
+.left{
+    width: 50%;
+    float: left;
+    padding-top:50px ;
+    
+
+}
+.right{
+    width: 50%;
+    float: left;
+    color: white;
+    
+
+}
+.right-link{
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+}
+.table{
+    margin-top: 60px;
+    padding-left: 45px;
+          
+}
+.head-label{
+    margin-left: 10px;
+}
+.head-input{
+    margin-left: 10px;
+    height: 20px;
+}
+.submit{
+    background-color: #7298ea;
+    border-radius: 5px;
+    color: white;
+    border-color: #7298ea;
+    cursor: pointer;
+}
+.submit:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(5, 53, 164);
+    border-color:rgb(5, 53, 164) ;
+}
+
+.body{
+   width: 100%;
+   height: 750px;
+   background: linear-gradient(white,#d3d8e8);
+   
+}
+.body-left{
+    width: 50%;
+    float: left;
+}
+.body-right{
+    width: 50%;
+    float: left;
+    padding-top: 60px;
+    
+    
+}
+.name{
+    height: 30px;
+    width: 210px;
+    margin-left: 100px;
+    font-size: 20px;
+}
+.num{
+    height: 30px;
+    width: 450px;
+    margin-left: 100px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.password{
+    width: 450px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 100px;
+    font-size: 20px;
+}
+.Birthday{
+    margin-left: 100px;
+    color:#685b5b;
+}
+.set-1{
+    margin-left: 100px;
+    width: 75px;
+    text-align: center;
+    height: 25px;
+    font-weight: bold;
+    
+}
+.set-2{
+    margin-left: 5px;
+    width: 75px;
+    text-align: center;
+    height: 25px;
+    font-weight: bold;
+}
+.set-3{
+    margin-left: 5px; ;
+    width: 75px;
+    height: 25px;
+    text-align: center;
+    font-weight: bold;
+}
+.Gender{
+    margin-left: 100px;
+    color:#685b5b;
+}
+.btn{
+    
+    width: 200px;
+    height: 50px;
+    margin-left: 100px;
+    background-color: rgb(12, 162, 12);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    border-color:rgb(3, 93, 13) ;
+    border-width:2px ;
+    color: white;
+    cursor: pointer;
+    
+}
+.text{
+    margin-left: 100px;
+}
+.para-1{
+    margin-left: 100px;
+}
+.name-1{
+    height: 30px;
+    width: 210px;
+    margin-left: 15px;
+    font-size: 20px;
+    
+}
+.head-body{
+    margin-left: 100px;
+}
+.head1{
+    margin-left: 100px;
+}
+.rd{
+    font-weight: bold;
+}
+.rdo{
+    margin-left: 100px;
+    
+}
+.btn:hover{
+    background-color: green;
+    color: bisque;
+}
+.bottom{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(159, 159, 159);
+    display: inline-block;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.left-head{
+    margin-left: 30px;
+    margin-top: 80px;
+}
+.body-img{
+    margin-left: 27px;
+    margin-top: 45px;
+    height: 300px;
+}
